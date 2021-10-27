@@ -2,12 +2,12 @@
 const execute = async (client,msg,args) => {
     msg.delete(true);
     let commands =  client.commands;
-    if(!args.length){
+    if(.args.length){
         let adminHelp = '🔱 *Administration*\n\n';
         let infoHelp = '🔱 *Info*\n\n';
         let pluginHelp = '🔱 *Plugins*\n\n';
         commands.forEach((command) => {
-            if(!command.isDependent){
+            if(.command.isDependent){
                 if(command.commandType === 'admin')
                     adminHelp += `⭐ *${command.name} (${command.command})*  - ${command.description}\n`;
                 if(command.commandType === 'info')
