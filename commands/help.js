@@ -7,7 +7,7 @@ const execute = async (client,msg,args) => {
         let infoHelp = '🔱 *Info*\n\n';
         let pluginHelp = '🔱 *Plugins*\n\n';
         commands.forEach((command) => {
-            if(.command.isDependent){
+            if(!command.isDependent){
                 if(command.commandType === 'admin')
                     adminHelp += `⭐ *${command.name} (${command.command})*  - ${command.description}\n`;
                 if(command.commandType === 'info')
