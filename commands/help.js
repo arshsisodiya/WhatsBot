@@ -34,7 +34,7 @@ const execute = async (client,msg,args) => {
 module.exports = {
     name: 'help',
     description: 'get information about available commands',
-    command: '!help',
+    command: '.help',
     commandType: 'info',
     isDependent: false,
     help: 'To get more info use ```!help [command]```. Ex: ```!help ping```',
