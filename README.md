@@ -63,7 +63,7 @@
 
 ### Deploy :
 
-[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/TheWhatsBot/WhatsBot "Deploy with Heroku")<br>
+[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/arshsisodiya/WhatsBot "Deploy with Heroku")<br>
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FTheWhatsBot%2FWhatsBot&plugins=mongodb&envs=SESSION%2CPMPERMIT_ENABLED%2CDEFAULT_TR_LANG%2CENABLE_DELETE_ALERT%2COCR_SPACE_API_KEY&optionalEnvs=OCR_SPACE_API_KEY&SESSIONDesc=Puppeteer+Session.+Ge+it+by+running+genToken.js&PMPERMIT_ENABLEDDesc=Enable+Pmpermit+write+true+or+false+only&DEFAULT_TR_LANGDesc=Default+Translation+Language&ENABLE_DELETE_ALERTDesc=If+true+and+if+someone+delete+message+in+PM%2C+Bot+will+send+the+deleted+message+in+that+chat+%28Exclude+Media%29&OCR_SPACE_API_KEYDesc=Get+it+from+https%3A%2F%2Focr.space%2FOCRAPI&PMPERMIT_ENABLEDDefault=true&DEFAULT_TR_LANGDefault=en&referralCode=tuhin)
 
 ### Commands :
